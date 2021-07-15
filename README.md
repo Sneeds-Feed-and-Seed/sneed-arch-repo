@@ -1,3 +1,3 @@
 # sneedacity-retard-git
 
-sneedacity aur repo
+sneedacity arch repo
