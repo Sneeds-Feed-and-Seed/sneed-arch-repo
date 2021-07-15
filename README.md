@@ -1,3 +1,3 @@
 # sneedacity-retard-git
 
-sneedacity arch repo
+AUR Replacement for the Sneed Suite of Feed
