@@ -10,3 +10,5 @@ SigLevel = Optional TrustAll
 Server = https://repo.swurl.xyz/sneed/arch/x86_64
 ```
 refresh package repos and update: `pacman -Syu`
+
+available packages: `sneedacity-bin`
