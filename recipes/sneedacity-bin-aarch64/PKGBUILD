@@ -3,7 +3,7 @@
 pkgname=sneedacity-bin
 pkgver=3.0.2.r153.gc5f2a55dd
 pkgrel=1
-pkgdesc="Audacity fork without any telemetry (git-version)"
+pkgdesc="Audacity fork without any telemetry (bin-version)"
 arch=(i686 x86_64 aarch64)
 url="https://github.com/Sneeds-Feed-and-Seed/sneedacity"
 license=(GPL2 CCPL)
