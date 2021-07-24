@@ -36,8 +36,7 @@ build() {
     -Dsneedacity_use_wxwidgets=local \
     sneedacity_use_ffmpeg:STRING=loaded \
     ..
-  cmake --build .
-  make .
+  cmake --build . -j8
 }
 
 package() {
