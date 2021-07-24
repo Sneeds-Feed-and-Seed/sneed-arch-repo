@@ -1,6 +1,6 @@
 pkgbase = sneedacity-bin
-	pkgdesc = Audacity fork without any telemetry (git-version)
-	pkgver = 3.0.2.r153.gc5f2a55dd
+	pkgdesc = Audacity fork without any telemetry (bin version)
+	pkgver = 3.0.2.r163.g311f4ecc8
 	pkgrel = 1
 	url = https://github.com/Sneeds-Feed-and-Seed/sneedacity
 	arch = i686
@@ -43,7 +43,7 @@ pkgbase = sneedacity-bin
 	provides = sneedacity
 	conflicts = audacity
 	conflicts = sneedacity
-	source = git+https://github.com/Sneeds-Feed-and-Seed/sneedacity.git#branch=conan_removal
+	source = git+https://github.com/Sneeds-Feed-and-Seed/sneedacity.git
 	md5sums = SKIP
 
 pkgname = sneedacity-bin
