@@ -1,7 +1,7 @@
 # Maintainer: Ckat <ckat@teknik.io>
 
 pkgname=sneedacity-bin
-pkgver=3.0.2.r153.gc5f2a55dd
+pkgver=3.0.2.r163.g311f4ecc8
 pkgrel=1
 pkgdesc="Audacity fork without any telemetry (bin-version)"
 arch=(i686 x86_64 aarch64)
